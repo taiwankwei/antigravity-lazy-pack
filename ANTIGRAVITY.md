@@ -10,8 +10,8 @@ GitHub repo：https://github.com/taiwankwei/antigravity-lazy-pack
 
 ## Obsidian 對應筆記
 
-Obsidian vault：C:\Users\User\2ndbrain
-專案駕駛艙：C:\Users\User\2ndbrain\AntiGravity專案駕駛艙.md
+Obsidian vault：G:\我的雲端硬碟\2ndbrain
+專案駕駛艙：G:\我的雲端硬碟\2ndbrain\AntiGravity專案駕駛艙.md
 
 ## 工作規則
 
